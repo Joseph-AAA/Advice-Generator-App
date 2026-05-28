@@ -1,4 +1,4 @@
-
+import { useState } from 'react';
 import './App.css'
 import diceIcon from "./assets/images/icon-dice.svg"
 import divider from "./assets/images/pattern-divider-desktop.svg"
