@@ -10,7 +10,6 @@ This project was created to practice working with APIs, asynchronous JavaScript,
 
 - React
 - TypeScript
-- Tailwind CSS
 - Vite
 - Advice Slip API
 
